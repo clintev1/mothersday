@@ -1,0 +1,16 @@
+img
+{
+    height: 100px;
+    width: 150px;
+    box-shadow: pink;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #0091ff, #e45cff, #3cff00, #fcff49, #ff00dd);
+}
+
+h1
+{
+    color: aqua;
+}
